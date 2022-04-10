@@ -10,6 +10,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying the Analemma](https://mtirado.com/blog/demystifying-the-analemma/index.html)
+- [Inkscape and D3.js for Map Makers](https://mtirado.com/blog/inkscape-and-d3js-for-map-makers/index.html)
+- [Programmatic SVG with Python](https://mtirado.com/blog/programmatic-svg-with-python/index.html)
+- [Reestructurando](https://mtirado.com/blog/reestructurando/index.html)
+- [Rasters and Vectors](https://mtirado.com/blog/rasters-and-vectors/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtirado1&show_icons=true&locale=en&layout=compact" alt="mtirado1" /></p>
