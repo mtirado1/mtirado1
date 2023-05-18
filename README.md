@@ -10,11 +10,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Deberías llevar un diario?](https://mtirado.com/blog/deberias-llevar-un-diario/)
 - [Desarrollar gráficos interactivos es adictivo](https://mtirado.com/blog/desarrollar-graficos-interactivos-es-adictivo/)
 - [Developing interactive graphics is addictive](https://mtirado.com/blog/developing-interactive-graphics-is-addictive/)
 - [Lift - A small stack-based programming language](https://mtirado.com/blog/lift-language-intro/)
 - [Listening to music while working](https://mtirado.com/blog/listening-to-music-while-working/)
-- [A guide to golfing in Lua](https://mtirado.com/blog/golfing-in-lua/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtirado1&show_icons=true&locale=en&layout=compact" alt="mtirado1" /></p>
